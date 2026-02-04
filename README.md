@@ -1,6 +1,34 @@
 <!--
-Computer Science student with a background in Mechanical Engineering, passionate about building real-world software systems. Experienced in C++, C#, Python, and Java, with projects in system-level development, game programming, OCR, and image processing.
-Here are some ideas to get you started:
+# Jean Blignaut
 
-- I’m currently working on an Interactive Smart Board system. It acts as a single hub for drawing, writing and design with automated AI response.
+Computer Science student with a background in Mechanical Engineering, focused on building real-world software systems. I enjoy working close to the system layer and designing applications that combine performance, structure, and practical use.
+
+## What I Build
+- System-level applications in C++ (Win32, custom tooling)
+- Games and interactive software (Python, C#, Unity)
+- OCR and image-processing pipelines
+- Networking and security labs
+- Full-stack and automation tools
+
+## Tech Stack
+**Languages:** C++, C#, Python, Java, JavaScript  
+**Systems:** Windows, Linux  
+**Tools:** MSVC, vcpkg, Git, VS Code, Unity  
+**Concepts:** Data structures, networking, OS internals, system design
+
+## Featured Projects
+- **ProximaBoard** – Windows digital whiteboard with OCR integration  
+- **Space Invaders** – Classic game clone built with Pygame  
+- **Networking Labs** – VLANs, routing, packet analysis  
+- **Game Engines & Tools** – Custom interactive systems
+
+## Current Focus
+- System programming and performance
+- Software architecture and design
+- Building a strong technical portfolio
+
+## Links
+LinkedIn: https://linkedin.com/in/yourprofile  
+Portfolio: https://yourwebsite.com
+
 -->
