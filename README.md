@@ -1,4 +1,3 @@
-<!--
 # Jean Blignaut
 
 Computer Science student with a background in Mechanical Engineering, focused on building real-world software systems. I enjoy working close to the system layer and designing applications that combine performance, structure, and practical use.
@@ -23,12 +22,11 @@ Computer Science student with a background in Mechanical Engineering, focused on
 - **Game Engines & Tools** – Custom interactive systems
 
 ## Current Focus
-- System programming and performance
-- Software architecture and design
-- Building a strong technical portfolio
+- System programming and performance  
+- Software architecture and design  
+- Building a strong technical portfolio  
 
 ## Links
 LinkedIn: https://linkedin.com/in/yourprofile  
 Portfolio: https://yourwebsite.com
 
--->
