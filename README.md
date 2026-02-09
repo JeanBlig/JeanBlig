@@ -16,7 +16,11 @@ Computer Science student with a background in Mechanical Engineering, focused on
 **Concepts:** Data structures, networking, OS internals, system design
 
 ## Featured Projects
-- **ProximaBoard** – Windows digital whiteboard with OCR integration  
+- **ProximaBoard** – Windows digital whiteboard with OCR integration
+- <p align="center">
+  <img src="assets/ISO_C++_Logo.svg.png" width="700">
+</p>
+
 - **Space Invaders** – Classic game clone built with Pygame  
 - **Networking Labs** – VLANs, routing, packet analysis  
 - **Game Engines & Tools** – Custom interactive systems
