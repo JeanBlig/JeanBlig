@@ -19,3 +19,12 @@ Python --------------> C++ -----------> C# -------------> SQL/No-SQL -----------
   <img src="GitHub assets/Java_programming_language_logo.svg.png" width="30" align="right">
 </p>
 
+<p></p>
+
+<p align="center">
+  🌐 <a href="https://yourwebsite.com" target="_blank"><strong>jeanblignaut.dev</strong></a><br>
+  <sub>Art • Games • Sport • Resume</sub>
+</p>
+
+
+
