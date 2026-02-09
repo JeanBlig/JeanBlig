@@ -17,7 +17,7 @@ Computer Science student with a background in Mechanical Engineering, focused on
 
 ## Featured Projects
 - **ProximaBoard** – Windows digital whiteboard with OCR integration
-- <p align="center">
+<p align="center">
   <img src="assets/ISO_C++_Logo.svg.png" width="700">
 </p>
 
