@@ -4,11 +4,11 @@ Computer Science student with a background in Mechanical Engineering, focused on
 
 ## My Road Map
 
-Python ------------> C++ -------------> C# -------------> SQL/No-SQL ------------> HTML/CSS/Java-Script ------------> Java
+Python -------------> C++ -------------> C# -------------> SQL/No-SQL ------------> HTML/CSS/Java-Script -----------------> Java
 <p align="center">
   <img src="GitHub assets/Python.svg.png" width="30" align="left">
   <img src="GitHub assets/ISO_C++_Logo.svg.png" width="30">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="GitHub assets/C_Sharp_Logo_2023.svg.png" width="30">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
