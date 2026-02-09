@@ -1,6 +1,6 @@
 # Jean Blignaut
 
-Computer Science student with a background in Mechanical Engineering, focused on building unique software systems. I enjoy working with low level languages and designing applications that ameliorates learning.
+Focused on building unique software systems. I enjoy working with low level languages and designing applications that ameliorates learning.
 
 ## Road Map
 
