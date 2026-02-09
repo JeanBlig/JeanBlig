@@ -4,7 +4,7 @@ Focused on building unique software systems. I enjoy working with low level lang
 
 ## Road Map
 
-Python --------------> C++ ------------> C# ---------------> SQL/No-SQL ------------> HTML/CSS/Java-Script --------------------------> Java
+Python --------------> C++ ------------> C# ---------------> SQL/No-SQL ------------> HTML/CSS/Java-Script -----------------------> Java
 <p align="center">
   <img src="GitHub assets/Python.svg.png" width="30" align="left">
   <img src="GitHub assets/ISO_C++_Logo.svg.png" width="30">
