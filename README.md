@@ -18,7 +18,7 @@ Computer Science student with a background in Mechanical Engineering, focused on
 ## Featured Projects
 - **ProximaBoard** – Windows digital whiteboard with OCR integration
 <p align="center">
-  <img src="GitHub assets/ISO_C++_Logo.svg.png" width="700">
+  <img src="GitHub assets/ISO_C++_Logo.svg.png" width="50">
 </p>
 
 - **Space Invaders** – Classic game clone built with Pygame  
