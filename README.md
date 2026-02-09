@@ -25,6 +25,3 @@ Computer Science student with a background in Mechanical Engineering, focused on
 - System programming and performance  
 - Software architecture and design  
 - Building a strong technical portfolio  
-
-/assets
-/images
