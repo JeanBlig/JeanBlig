@@ -26,4 +26,3 @@ Python --------------> C++ -----------> C# -------------> SQL/No-SQL -----------
   <img src="https://img.shields.io/badge/Personal_Site-GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-## Projects
