@@ -5,7 +5,9 @@ Computer Science student with a background in Mechanical Engineering, focused on
 ## My Road Map
 
 Python ----------------> C++ ----------------> C# ---------------> SQL/No-SQL --------------> HTML/CSS/Java-Script ----------------> Java
-<p align="left">
-  <img src="GitHub assets/Python.svg.png" width="30">
+<p >
+  <img align="left" src="GitHub assets/Python.svg.png" width="30">
+  <img align="center" src="GitHub assets/ISO_C++_Logo.svg.png" width="30">
 </p>
+
 
